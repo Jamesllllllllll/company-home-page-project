@@ -1,1 +1,2 @@
-# https://jamesllllllllll.github.io/company-home-page-project
+# [company-home-page-project](https://jamesllllllllll.github.io/company-home-page-project)
+Project for Codecademy
