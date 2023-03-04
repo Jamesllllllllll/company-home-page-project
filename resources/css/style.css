@@ -133,6 +133,23 @@ header ul li a {
     border-radius: 3px;
 }
 
+@media screen and (max-width: 530px) {
+    h1 {
+        font-size: 4rem;
+    }
+
+    h3 {
+        font-size: 1.25rem;
+    }
+
+    #title {
+        padding: 2rem 15px;
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+    }
+}
+
 #title p {
     margin-bottom: 3rem;
 }
@@ -274,6 +291,7 @@ header ul li a {
     max-width: 800px;
     display: flex;
     flex-flow: row wrap;
+    row-gap: 1rem;
     background-color:hsla(44, 37%, 52%, 1);
     box-shadow: 10px 10px hsla(44, 37%, 15%, 1);
     border-radius: 3px;
